@@ -1,2 +1,6 @@
+exportacao_full.csv
+exportacao_notfull.csv
+new_df_argentina.csv
 *.csv
 *.zip
+new_df_argentina_limpo.csv
